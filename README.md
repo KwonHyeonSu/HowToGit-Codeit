@@ -53,3 +53,11 @@ git reset 뒤의 명령어 차이
 
 git reset --hard HEAD~2 -> Commit 2번 이전 내용으로
 git reset --hard HEAD^ -> Commit 바로 이전 내용으로
+
+
+
+git tag [태그 이름] [커밋 아이디] -> 태그 달기
+
+git tag -> 태그 확인
+
+git show [태그 이름] -> 태그와 관련된 Commit 보기
