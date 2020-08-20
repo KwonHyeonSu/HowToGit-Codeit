@@ -2,7 +2,7 @@
 
 git init -> 버전관리 시작 , .git 폴더 생성
 
-commit -> 사용자 이름, 이메일 주소 지정하기
+commit 해야됨 -> 사용자 이름, 이메일 주소 지정하기
 
 git config --global user.name "soo"
 git config --global user.email "gustngusrud1@naver.com"
@@ -302,3 +302,37 @@ git cherry-pick [커밋 아이디] : 특정 커밋의 내용을 현재 커밋에
 
 
 이제 어디를 가도 '나 Git 쓸 줄 알아!' 라고 자신있게 말할 수 있게 되신 여러분, 축하합니다! 
+
+
+## 안상태 교수님 강의
+
+conda env list : 콘다 가상환경 리스트확인
+
+conda create -n my_env : 콘다 가상환경 만들기
+
+conda env remove -n my_env : 콘다 가상환경 지우기
+
+conda activate my_env : 가상환경 들어가기
+
+conda deactivate : 가상환경 나오기
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
